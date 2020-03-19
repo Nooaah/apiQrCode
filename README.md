@@ -8,7 +8,7 @@ Use [Node.js](https://nodejs.org/en/) to install apiQrCode.
 
 ```bash
 npm i #for install all dependencies
-node index.js #run server
+npm start #run server
 ```
 
 Create a database and tables as defined in the code and modify the port according to your operating system.
